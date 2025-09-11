@@ -1,4 +1,4 @@
-# 🛠 CreoOptimizationPack
+# 🛠 Creo Optimization Pack
 
 ![Visitors: 95K+](https://img.shields.io/badge/Visitors-95K+-e74c3c) ![Members: 70K+](https://img.shields.io/badge/Members-70K+-6c5ce7)  
 
