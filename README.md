@@ -13,7 +13,7 @@
 ---
 
 <a href="https://olombaris-25.github.io/.github/Creo" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-MAC-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+  <img src="https://img.shields.io/badge/Install_Guide-MacOS-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🚀 Getting Started
@@ -42,7 +42,7 @@ Enhance your *PTC Creo* with **CreoOptimizationPack** on Windows or Mac:
 ---
 
 <a href="https://olombaris-25.github.io/.github/Creo" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-MAC-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+  <img src="https://img.shields.io/badge/Install_Guide-MacOS-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🛠 Why CreoOptimizationPack?
